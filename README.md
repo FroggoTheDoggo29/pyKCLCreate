@@ -1,2 +1,2 @@
 # pyKCLCreate
-New version of KCLCreate updated to PyQt5 and Python 3.8
+Tool to create Super Mario Galaxy 1/2 compatible KCL files. Originally written by blank63.
